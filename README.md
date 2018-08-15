@@ -1,6 +1,6 @@
 # text-summarization-rnn
 
-Generate abstracts from news articles (CNN / Dail Mail news dataset)
+Generate abstracts from news articles (CNN / Dail Mail news dataset) - WIP
 
 References:
 - https://github.com/abisee/pointer-generator
